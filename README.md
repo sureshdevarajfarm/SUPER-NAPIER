@@ -1,3 +1,3 @@
 <p align="center">
-<img alt="Super Napier" src="https://raw.githubusercontent.com/amitshekhariitbhu/android-developer-roadmap/master/assets/android-developer-roadmap.png">
+<img alt="Super Napier" src="https://github.com/sureshdevarajfarm/SUPER-NAPIER/blob/main/a_SuperNapier_Stems.jpg">
 </p>
